@@ -52,29 +52,6 @@ CSV 中包含：
 * 原文正文
 * 原文链接
 
-## 免责声明
-
-**本项目仅用于个人练习、编程练习和技术学习。**
-
-本项目并非用于非法爬虫、商业数据采集、大规模自动化抓取或绕过网站安全机制。
-
-使用本项目时，请遵守：
-
-* 微博及其他目标网站的服务条款
-* 网站的访问规则和技术限制
-* 相关法律法规
-* 个人信息和隐私保护要求
-* 内容版权及其他第三方权利
-
-本程序不用于绕过验证码、安全验证、登录限制、访问频率限制或其他网站保护措施。
-
-如果网站出现验证码、安全验证或访问限制，应停止程序，并通过正常方式处理。
-
-请合理控制访问频率，避免给网站服务器造成额外负担。
-
-使用者应自行判断数据的合法使用范围，并自行承担运行或修改本程序产生的风险。
-
----
 
 # English（英文）
 
@@ -127,24 +104,83 @@ The CSV contains:
 * Post Text
 * Original URL
 
-## Disclaimer
+## 详细使用规范与免责声明
 
-**This project is provided solely for personal learning, programming practice, and technical study.**
+本项目仅用于**个人学习、Python 编程练习和技术研究**。
 
-It is not intended for illegal scraping, commercial data collection, large-scale automated crawling, or bypassing website security mechanisms.
+本项目不是为非法爬虫、未经授权的数据采集、大规模自动化抓取、商业数据服务或规避网站安全机制而设计。
 
-Users are responsible for complying with:
+使用本项目的任何人均应自行确认其使用行为符合：
 
-* The target website's Terms of Service
-* Website access rules and technical restrictions
-* Applicable laws and regulations
-* Privacy and personal-data protection requirements
-* Copyright and other third-party rights
+* 目标网站当前有效的服务条款、用户协议及平台规则；
+* 网站设置的访问权限、访问频率和技术限制；
+* 适用的法律法规；
+* 个人信息、隐私和数据保护要求；
+* 著作权及其他第三方合法权益。
 
-This project is not intended to bypass CAPTCHAs, security verification systems, login restrictions, rate limits, or other technical protection measures.
+本项目不用于绕过或规避：
 
-If the website displays a CAPTCHA, security verification request, or access restriction, the program should be stopped and the issue should be handled through normal authorized methods.
+* CAPTCHA 或验证码；
+* 安全验证；
+* 登录或身份验证限制；
+* 访问频率限制；
+* IP、账户或设备限制；
+* 其他访问控制或技术保护措施。
 
-Users should keep access frequency reasonable and avoid placing unnecessary load on website servers.
+如果目标网站出现验证码、安全验证、访问限制、异常访问提示或类似情况，应停止自动化操作，并通过网站提供的正常方式处理。
 
-Users are responsible for determining whether their use of collected data is lawful and appropriate, and they assume responsibility for risks arising from running or modifying this project.
+即使某些信息可以在网页上公开查看，也不代表这些信息可以被任意收集、保存、重新发布或用于其他目的。使用者应根据具体情况自行判断数据的合法和适当使用范围。
+
+请合理控制访问频率，避免对目标网站服务器造成不必要的负担。
+
+本项目按 **“AS IS（按现状）”** 提供。作者不保证程序能够持续正常运行，也不保证所获取数据的完整性、准确性或持续可用性。网站结构、访问规则及相关政策可能随时发生变化。
+
+使用者应自行承担运行、修改和使用本项目所产生的风险，并对其数据获取、保存、使用、发布或共享行为负责。
+
+在适用法律允许的范围内，作者不对因使用或修改本项目而产生的数据丢失、账户限制、访问限制或其他损失承担超出法律规定范围的责任。
+
+**本项目的代码许可仍以仓库中的 `LICENSE` 文件为准。**
+
+本 README 中的内容仅用于说明项目用途和负责任使用原则，不构成法律意见。
+
+---
+
+## Responsible Use and Disclaimer
+
+This project is intended solely for **personal learning, Python programming practice, and technical research**.
+
+It is not designed for illegal scraping, unauthorized data collection, large-scale automated crawling, commercial data collection services, or circumvention of website security mechanisms.
+
+Anyone using this project is responsible for ensuring that their use complies with:
+
+* the current Terms of Service, user agreements, and policies of the target website;
+* access permissions, rate limits, and technical restrictions imposed by the website;
+* applicable laws and regulations;
+* privacy and personal-data protection requirements; and
+* copyright and other third-party rights.
+
+This project is not intended to bypass or circumvent:
+
+* CAPTCHAs;
+* security verification systems;
+* login or authentication restrictions;
+* rate limits;
+* IP, account, or device restrictions; or
+* other access-control or technical-protection mechanisms.
+
+If the target website displays a CAPTCHA, security verification request, access restriction, abnormal-access warning, or similar mechanism, automated activity should be stopped and the issue should be handled through the website's normal authorized process.
+
+The fact that certain information is publicly visible on a webpage does not necessarily mean that it may be freely collected, stored, republished, or used for other purposes. Users are responsible for determining whether their intended use of collected data is lawful and appropriate.
+
+Users should keep access frequency reasonable and avoid placing unnecessary load on the target website.
+
+This project is provided **“AS IS.”** The author does not guarantee continued functionality, completeness or accuracy of collected data, or continued compatibility with the target website. Website structures, access rules, and policies may change at any time.
+
+Users assume responsibility for the risks associated with running, modifying, or using this project and remain responsible for their own collection, storage, use, publication, or sharing of data.
+
+To the extent permitted by applicable law, the author does not accept liability beyond what applicable law requires for data loss, account restrictions, access restrictions, or other losses arising from the use or modification of this project.
+
+**Licensing of the source code remains governed by the repository's `LICENSE` file.**
+
+Nothing in this README constitutes legal advice.
+
