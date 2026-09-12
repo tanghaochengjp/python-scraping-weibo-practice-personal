@@ -1,19 +1,16 @@
 # python-scraping-weibo-practice
 A Python web scraping script for personal data collection（weibo version）
+A simple Python-based data collection project demonstrating the approach I used during my undergraduate thesis research.
 
 ## 中文（CHINESE）
 
 ### 项目说明
 
-这是一个用于**个人学习和 Python 编程练习**的小项目。
+本项目用于展示我在本科毕业论文研究过程中如何将 Python 应用于简单的数据收集，同时也是对 Python 编程和网页数据处理方法的一次实践整理。
 
-主要目的是练习：
+我的本科毕业论文研究涉及网络公开信息的收集与后续数据分析。在这一过程中，我使用 Python 辅助完成部分数据获取与整理工作。
 
-* Python 基础语法
-* 浏览器自动化
-* 简单网页数据读取
-* JSON 数据处理
-* CSV 文件保存
+本仓库中的程序展示了一种简化的数据收集流程
 
 程序会从微博搜索页面读取公开显示的信息，并保存：
 
@@ -58,14 +55,9 @@ CSV 中包含：
 ## About This Project
 
 This is a small project created for **personal learning and Python programming practice**.
+This repository presents a simplified implementation of the Python-based data collection approach I used during my undergraduate thesis research.
 
-The main purpose is to practice:
-
-* Basic Python programming
-* Browser automation
-* Basic webpage data extraction
-* JSON processing
-* CSV file output
+My undergraduate thesis involved the collection and subsequent analysis of publicly accessible online information. Python was used to assist with part of the data collection and organization process.
 
 The program reads publicly visible information from Weibo search pages and saves:
 
@@ -139,8 +131,6 @@ The CSV contains:
 
 在适用法律允许的范围内，作者不对因使用或修改本项目而产生的数据丢失、账户限制、访问限制或其他损失承担超出法律规定范围的责任。
 
-**本项目的代码许可仍以仓库中的 `LICENSE` 文件为准。**
-
 本 README 中的内容仅用于说明项目用途和负责任使用原则，不构成法律意见。
 
 ---
@@ -180,7 +170,12 @@ Users assume responsibility for the risks associated with running, modifying, or
 
 To the extent permitted by applicable law, the author does not accept liability beyond what applicable law requires for data loss, account restrictions, access restrictions, or other losses arising from the use or modification of this project.
 
-**Licensing of the source code remains governed by the repository's `LICENSE` file.**
-
 Nothing in this README constitutes legal advice.
 
+## Copyright
+
+Copyright © 2026 Tang Hao Cheng. All rights reserved.
+
+No open-source license is granted for this repository.
+This repository is made publicly available primarily for academic review,
+personal learning, and portfolio demonstration.
