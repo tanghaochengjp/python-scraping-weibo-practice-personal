@@ -1,12 +1,12 @@
 # python-scraping-weibo-practice
 A Python web scraping script for personal data collection（weibo version）
-A simple Python-based data collection project demonstrating the approach I used during my undergraduate thesis research.
+Simple Python-based data collection project demonstrating the approach I used during my undergraduate thesis research.
 
 ## 中文（CHINESE）
 
 ### 项目说明
 
-本项目用于展示我在本科毕业论文研究过程中如何将 Python 应用于简单的数据收集，同时也是对 Python 编程和网页数据处理方法的一次实践整理。
+本项目仅用于展示我在本科毕业论文研究过程中如何将 Python 应用于简单的数据收集，同时也是对 Python 编程和网页数据处理方法的一次实践整理。
 
 我的本科毕业论文研究涉及网络公开信息的收集与后续数据分析。在这一过程中，我使用 Python 辅助完成部分数据获取与整理工作。
 
@@ -18,7 +18,7 @@ A simple Python-based data collection project demonstrating the approach I used 
 * 微博正文
 * 原文链接
 
-本项目仅用于个人学习和技术练习，不用于商业用途或大规模数据采集。
+本项目仅用于个人学习和技术练习，不可用于商业用途或大规模数据采集。
 
 ### 使用环境
 
